@@ -1,2 +1,3 @@
 # first-repo
-First try in github 
+First try github 
+Updated text.
